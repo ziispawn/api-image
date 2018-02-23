@@ -1,0 +1,31 @@
+namefile=
+{
+"name":	
+	{
+	{
+	"Thresh":
+		{	
+		"stats": 
+			"total":{ 	
+				"wins":{ 
+					"normal": 11816,
+					
+				}
+			}
+		}
+	}
+				
+}
+	"Aatrox":{
+		"name": "Aatrox"{
+		"stats": {
+			"total": {
+				"samples": {
+					"normal": 1777,
+					
+				}
+				}
+			}
+		}
+	}
+}
